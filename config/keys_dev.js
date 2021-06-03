@@ -1,4 +1,5 @@
 module.exports = {
-  mongoURI: "mongodb://mern:abc123@ds127841.mlab.com:27841/restful-api-mern",
-  secretOrKey: "secret"
+    // mongoURI: "mongodb+srv://test:test1234@test.gfazv.mongodb.net/test?retryWrites=true&w=majority",
+    mongoURI: "mongodb+srv://test:965920ynxhj@cluster0.0dzqh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    secretOrKey: "secret"
 }
